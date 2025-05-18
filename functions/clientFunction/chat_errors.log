@@ -1,0 +1,97 @@
+[2025-05-13 05:39:50] Received raw data: {"receiver_id":"323","message":"Hello","csrf_token":{}}
+[2025-05-13 05:39:50] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:39:50] Received raw data: {"receiver_id":"323","message":"Hello"}
+[2025-05-13 05:39:50] Missing required fields in request: Array
+(
+    [receiver_id] => 323
+    [message] => Hello
+)
+
+[2025-05-13 05:39:50] Received raw data: {"receiver_id":"323","message":"Hello","csrf_token":{}}
+[2025-05-13 05:39:50] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:39:50] Received raw data: {"receiver_id":"323","message":"Hello","csrf_token":{}}
+[2025-05-13 05:39:50] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:40:12] Received raw data: {"receiver_id":"323","message":"Hello"}
+[2025-05-13 05:40:12] Missing required fields in request: Array
+(
+    [receiver_id] => 323
+    [message] => Hello
+)
+
+[2025-05-13 05:40:12] Received raw data: {"receiver_id":"323","message":"Hello","csrf_token":{}}
+[2025-05-13 05:40:12] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:40:12] Received raw data: {"receiver_id":"323","message":"Hello","csrf_token":{}}
+[2025-05-13 05:40:12] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:40:12] Received raw data: {"receiver_id":"323","message":"Hello","csrf_token":{}}
+[2025-05-13 05:40:12] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:41:52] Received raw data: {"receiver_id":"323","message":"hello"}
+[2025-05-13 05:41:52] Missing required fields in request: Array
+(
+    [receiver_id] => 323
+    [message] => hello
+)
+
+[2025-05-13 05:41:52] Received raw data: {"receiver_id":"323","message":"hello","csrf_token":{}}
+[2025-05-13 05:41:52] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:41:52] Received raw data: {"receiver_id":"323","message":"hello","csrf_token":{}}
+[2025-05-13 05:41:52] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:41:52] Received raw data: {"receiver_id":"323","message":"hello","csrf_token":{}}
+[2025-05-13 05:41:52] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:45:19] Received raw data: {"receiver_id":"323","message":"helo","csrf_token":{}}
+[2025-05-13 05:45:19] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:45:19] Received raw data: {"receiver_id":"323","message":"helo"}
+[2025-05-13 05:45:19] Missing required fields in request: Array
+(
+    [receiver_id] => 323
+    [message] => helo
+)
+
+[2025-05-13 05:45:19] Received raw data: {"receiver_id":"323","message":"helo","csrf_token":{}}
+[2025-05-13 05:45:19] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:45:19] Received raw data: {"receiver_id":"323","message":"helo","csrf_token":{}}
+[2025-05-13 05:45:19] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:59:45] Received raw data: {"receiver_id":"323","message":"he"}
+[2025-05-13 05:59:45] Missing required fields in request: Array
+(
+    [receiver_id] => 323
+    [message] => he
+)
+
+[2025-05-13 05:59:45] Received raw data: {"receiver_id":"323","message":"he","csrf_token":{}}
+[2025-05-13 05:59:45] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:59:45] Received raw data: {"receiver_id":"323","message":"he","csrf_token":{}}
+[2025-05-13 05:59:45] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 05:59:45] Received raw data: {"receiver_id":"323","message":"he","csrf_token":{}}
+[2025-05-13 05:59:45] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 06:01:28] Received raw data: {"receiver_id":"323","message":"he"}
+[2025-05-13 06:01:28] Missing required fields in request: Array
+(
+    [receiver_id] => 323
+    [message] => he
+)
+
+[2025-05-13 06:01:28] Received raw data: {"receiver_id":"323","message":"he","csrf_token":{}}
+[2025-05-13 06:01:28] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 06:01:28] Received raw data: {"receiver_id":"323","message":"he","csrf_token":{}}
+[2025-05-13 06:01:28] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 06:01:28] Received raw data: {"receiver_id":"323","message":"he","csrf_token":{}}
+[2025-05-13 06:01:28] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 06:01:44] Received raw data: {"receiver_id":"323","message":"he"}
+[2025-05-13 06:01:44] Missing required fields in request: Array
+(
+    [receiver_id] => 323
+    [message] => he
+)
+
+[2025-05-13 06:01:44] Received raw data: {"receiver_id":"323","message":"he","csrf_token":{}}
+[2025-05-13 06:01:44] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 06:01:44] Received raw data: {"receiver_id":"323","message":"he","csrf_token":{}}
+[2025-05-13 06:01:44] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 06:01:44] Received raw data: {"receiver_id":"323","message":"he","csrf_token":{}}
+[2025-05-13 06:01:44] CSRF token validation failed. Session token: not set, Received token: Array
+[2025-05-13 06:02:59] Received raw data: {"receiver_id":"323","message":"jij","csrf_token":"<br />\n<b>Warning</b>:  Undefined array key "}
+[2025-05-13 06:02:59] CSRF token validation failed. Session token: not set, Received token: <br />
+<b>Warning</b>:  Undefined array key 
+[2025-05-13 06:04:42] Received raw data: {"receiver_id":"323","message":"hrh","csrf_token":"e8953a2cf00abba9717ffbf10800d1b33552e86b8f050a343a29c648ef83d25e"}
+[2025-05-13 06:04:42] Attempting to insert message - Sender: 4, Receiver: 323, Message: hrh
+[2025-05-13 06:04:42] Message successfully inserted with ID: 1

@@ -1,0 +1,46 @@
+body {
+    font-family: 'Proxima Nova', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+  }
+  .fullscreen-hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+.mainBtnSection{
+    font-weight: bold;
+    
+}
+.mainBtnSection:hover{
+    color: white !important;
+    background-color: #0d6efd;
+}
+.ftr{
+    background-color: rgb(231, 245, 248);
+}
+.ftr .container{
+    margin-top: 2.7rem;
+}
+.ftr a{
+    font-size: .8rem;   
+    color: rgb(129, 129, 129) !important;
+}
+/* Success modal styling */
+#registerSuccessModal .modal-content {
+    border: none;
+    border-radius: 12px;
+  }
+  
+  #registerSuccessModal .modal-body {
+    padding: 2rem;
+  }
+  
+  #registerSuccessModal .btn-success {
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    font-weight: 500;
+  }
+
+  
